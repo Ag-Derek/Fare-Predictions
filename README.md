@@ -1,5 +1,3 @@
-Here’s a professional **README.md** you can include in your GitHub repo or Streamlit deployment folder for your **Ghana Ride Fare Predictor** project:
-
 ---
 
 # 🇬🇭 Ghana Ride Fare Prediction App
