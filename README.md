@@ -134,5 +134,5 @@ This project is open-source under the **MIT License**.
 
 * Founder, Ghaidems Team
 * AI & Software Systems Developer
-* 🌐 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+*  [GitHub](https://github.com/)
 
