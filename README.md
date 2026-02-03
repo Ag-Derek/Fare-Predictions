@@ -132,7 +132,7 @@ This project is open-source under the **MIT License**.
 
 **Derrick Agorhom**
 
-* Founder, Ghaidems Team
+* Founder
 * AI & Software Systems Developer
 *  [GitHub](https://github.com/)
 
