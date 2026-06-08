@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+
+# Data (raw CSVs go in data/, not root)
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Netlify
+.netlify/
