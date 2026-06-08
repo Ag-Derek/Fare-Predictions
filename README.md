@@ -2,7 +2,7 @@
 
 A fully **serverless, static web app** that runs a trained **Random Forest model entirely in the browser** — no Python, no backend, no API costs.
 
-Live on Netlify: [![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR-BADGE-ID/deploy-status)](https://app.netlify.com)
+Live on Netlify: [[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR-BADGE-ID/deploy-status)](https://fareprediction.netlify.app/)](https://app.netlify.com)
 
 ---
 
